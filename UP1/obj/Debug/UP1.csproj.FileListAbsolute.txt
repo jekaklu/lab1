@@ -1,0 +1,7 @@
+c:\users\jekaklu\documents\visual studio 2017\Projects\UP1\UP1\bin\Debug\UP1.exe.config
+c:\users\jekaklu\documents\visual studio 2017\Projects\UP1\UP1\bin\Debug\UP1.exe
+c:\users\jekaklu\documents\visual studio 2017\Projects\UP1\UP1\bin\Debug\UP1.pdb
+c:\users\jekaklu\documents\visual studio 2017\Projects\UP1\UP1\obj\Debug\UP1.csprojResolveAssemblyReference.cache
+c:\users\jekaklu\documents\visual studio 2017\Projects\UP1\UP1\obj\Debug\UP1.csproj.CoreCompileInputs.cache
+c:\users\jekaklu\documents\visual studio 2017\Projects\UP1\UP1\obj\Debug\UP1.exe
+c:\users\jekaklu\documents\visual studio 2017\Projects\UP1\UP1\obj\Debug\UP1.pdb
