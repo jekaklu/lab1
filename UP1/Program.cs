@@ -15,12 +15,7 @@ namespace S4et
 
         public double Range { get; set; }
 
-        public Weapon()
-        {
-            this.Name = "";
-            this.Kaliber = 0.0;
-            this.Range = 0.0;
-        }
+
 
         public void Input()
         {
@@ -36,7 +31,13 @@ namespace S4et
             Console.WriteLine($"Дальность: { this.Range }");
         }
 
-
+        static void Main(string[] args)
+        {
+            Weapon scr = new Weapon();
+            scr.Input();
+            scr.Print();
+            Console.ReadKey();
+        }
 
     }
 }
